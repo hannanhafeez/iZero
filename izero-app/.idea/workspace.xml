@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e977729f-1206-4aaf-bd9d-c2846726a15c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Router/ClientStack/ClientStack.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Router/ClientStack/ClientStack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/IboardClient/IboardClient.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/IboardClient/IboardClient.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/JobDetailsClient/Screens/JobDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/JobDetailsClient/Screens/JobDetail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/Jobs/Jobs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/Jobs/Jobs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/SignUpPassword/SignUpPassword.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/SignUpPassword/SignUpPassword.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/SignUpSuccess/SignUpSuccess.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/SignUpSuccess/SignUpSuccess.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wDQzrLIVUxUdlSipYCddbanaDp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e977729f-1206-4aaf-bd9d-c2846726a15c" name="Default Changelist" comment="" />
+      <created>1627990947420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627990947420</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1627991113346">
+      <screen x="0" y="25" width="1440" height="818" />
+    </state>
+    <state x="184" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.818/1440.25.1920.1055@0.25.1440.818" timestamp="1627991113346" />
+    <state x="120" y="145" width="1200" height="576" key="AVDManager" timestamp="1627991118957">
+      <screen x="0" y="25" width="1440" height="818" />
+    </state>
+    <state x="120" y="145" width="1200" height="576" key="AVDManager/0.25.1440.818/1440.25.1920.1055@0.25.1440.818" timestamp="1627991118957" />
+  </component>
+</project>

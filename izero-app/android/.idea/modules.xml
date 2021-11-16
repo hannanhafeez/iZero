@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/iZero.iml" filepath="$PROJECT_DIR$/.idea/modules/iZero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/iZero.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/iZero.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-764299934/iZero.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-764299934/iZero.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1122231686/iZero.react-native-bootsplash.iml" filepath="$PROJECT_DIR$/.idea/modules/1122231686/iZero.react-native-bootsplash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1895457618/iZero.react-native-camera.iml" filepath="$PROJECT_DIR$/.idea/modules/1895457618/iZero.react-native-camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1987923918/iZero.react-native-community_datetimepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1987923918/iZero.react-native-community_datetimepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1520900510/iZero.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1520900510/iZero.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/442352248/iZero.react-native-device-info.iml" filepath="$PROJECT_DIR$/.idea/modules/442352248/iZero.react-native-device-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1212214756/iZero.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-1212214756/iZero.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/329123533/iZero.react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/329123533/iZero.react-native-firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1897381338/iZero.react-native-firebase_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/-1897381338/iZero.react-native-firebase_firestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1576182849/iZero.react-native-firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/-1576182849/iZero.react-native-firebase_messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2016765194/iZero.react-native-firebase_storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-2016765194/iZero.react-native-firebase_storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1096884473/iZero.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1096884473/iZero.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1992514387/iZero.react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1992514387/iZero.react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1716835595/iZero.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/1716835595/iZero.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1256465414/iZero.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/-1256465414/iZero.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/928356919/iZero.react-native-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/928356919/iZero.react-native-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1495095857/iZero.react-native-push-notification.iml" filepath="$PROJECT_DIR$/.idea/modules/1495095857/iZero.react-native-push-notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1632568707/iZero.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1632568707/iZero.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1804607710/iZero.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1804607710/iZero.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/155148730/iZero.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/155148730/iZero.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1930037426/iZero.react-native-sensitive-info.iml" filepath="$PROJECT_DIR$/.idea/modules/1930037426/iZero.react-native-sensitive-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1621460759/iZero.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/1621460759/iZero.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-367246979/iZero.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-367246979/iZero.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>

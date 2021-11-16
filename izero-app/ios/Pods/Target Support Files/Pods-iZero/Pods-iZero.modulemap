@@ -1,0 +1,6 @@
+module Pods_iZero {
+  umbrella header "Pods-iZero-umbrella.h"
+
+  export *
+  module * { export * }
+}

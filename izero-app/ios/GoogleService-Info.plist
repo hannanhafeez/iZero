@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>389399278169-p7rhfe8fngkbakgnkm4eilnoob09chrk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.389399278169-p7rhfe8fngkbakgnkm4eilnoob09chrk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCIzD9se0N3uOK87vt8qekyJ0ZQu4F1FwE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>389399278169</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.izero.technology</string>
+	<key>PROJECT_ID</key>
+	<string>izero-d399a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>izero-d399a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:389399278169:ios:4df87f18a75148ef5e7748</string>
+	<key>DATABASE_URL</key>
+	<string>https://izero-d399a-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
